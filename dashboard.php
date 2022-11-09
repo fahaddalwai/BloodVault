@@ -28,7 +28,7 @@
 </style>
 </head>
 
-<body style="color:black;" >
+<body style="color:black;font-family:arial" >
 
   <?php
   include 'conn.php';
@@ -47,7 +47,6 @@ include 'sidebar.php'; ?>
 
 </div>
 <div id="content">
-
   <div class="content-wrapper">
     <div class="container-fluid">
       <div class="row">
@@ -69,22 +68,16 @@ include 'sidebar.php'; ?>
                       $row=mysqli_num_rows($result);
 
                     ?>
-
-
                     <div class="stat-panel-number h1"><?php echo $row?></div>
                     <div class="stat-panel-title text-uppercase">Blood Donors Available </div>
                     <br>
                       <button class="btn btn-danger" onclick="window.location.href = 'donor_list.php';">
                         Full Detail <i class="fa fa-arrow-right"></i>
                       </button>
-
-
                   </div>
                 </div>
-
               </div>
             </div>
-
             <div class="col-md-3">
               <div class="panel panel-default panel-info" style="border-radius:50px;">
                 <div class="panel-body panel-info bk-primary text-light" style="background-color:#ABEBC6;border-radius:50px;">
@@ -95,8 +88,6 @@ include 'sidebar.php'; ?>
                       $row1=mysqli_num_rows($result1);
 
                     ?>
-
-
                     <div class="stat-panel-number h1 "><?php echo $row1?></div>
                     <div class="stat-panel-title text-uppercase"> All User Queries </div>
                     <br>
@@ -105,36 +96,8 @@ include 'sidebar.php'; ?>
                     </button>
                   </div>
                 </div>
-
               </div>
             </div>
-
-            <div class="col-md-3">
-              <div class="panel panel-default panel-info" style="border-radius:50px;">
-                <div class="panel-body panel-info bk-primary text-light" style="background-color:#E8DAEF ;border-radius:50px; ">
-                  <div class="stat-panel text-center">
-                    <?php
-                      $sql2 ="SELECT * from contact_query where query_status=2 ";
-                      $result2=mysqli_query($conn,$sql2) or die("query failed.");
-                      $row2=mysqli_num_rows($result2);
-
-                    ?>
-
-
-                    <div class="stat-panel-number h1 "><?php echo $row2 ?></div>
-                    <div class="stat-panel-title text-uppercase"> Pending Queries </div>
-                    <br>
-                    <button class="btn btn-danger" onclick="window.location.href = 'pending_query.php';">
-                      Full Detail <i class="fa fa-arrow-right"></i>
-                    </button>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-
-
-
         </div>
       </div>
     </div>
@@ -145,13 +108,11 @@ include 'sidebar.php'; ?>
      <form method="post" name="" action="login.php" class="form-horizontal">
        <div class="form-group">
          <div class="col-sm-8 col-sm-offset-4" style="float:left">
-
            <button class="btn btn-primary" name="submit" type="submit">Go to Login Page</button>
          </div>
        </div>
      </form>
  <?php }
   ?>
-
 </body>
 </html>

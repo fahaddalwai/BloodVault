@@ -194,19 +194,19 @@
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">Contact Information</h2>
                         <ul class="list-unstyled">
-                            <li><a href="#" class="py-2 d-block">9 ack Street, Cairo, Egypt.</a></li>
-                            <li><a href="#" class="py-2 d-block">+ 1234 5678 90</a></li>
-                            <li><a href="#" class="py-2 d-block">email@yoursite.com</a></li>
-                            <li><a href="#" class="py-2 d-block">email@email.com</a></li>
+                            <li><a href="#" class="py-2 d-block">VIT, Vellore, India.</a></li>
+                            <li><a href="#" class="py-2 d-block">+ 9999 9999 99</a></li>
+                            <li><a href="#" class="py-2 d-block">donate@nonprofit.com</a></li>
+                            <li><a href="#" class="py-2 d-block">bloodbank.com</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
-                            <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                            <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                            <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                            <li class="ftco-animate"><a href="https://twitter.com/bloodaid"><span class="icon-twitter"></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.facebook.com/help/contact/579287765983263"><span class="icon-facebook"></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.instagram.com/indiablooddonation/?hl=en"><span class="icon-instagram"></span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -219,7 +219,7 @@
             </div>
         </div>
     </footer>
-    <!-- END FOOTER ---------------------------------------------------------------->
+   
 
 
 </body>

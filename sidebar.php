@@ -58,7 +58,6 @@ div.content {
 a.act{
 background: linear-gradient(to right, #00C9FF 0%, #92FE9D 100%);
 color: black;
-border-radius:10px;
 }
 
 

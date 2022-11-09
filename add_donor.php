@@ -22,7 +22,7 @@
 </style>
 </head>
 
-<body style="color:black">
+<body style="color:black; font-family:arial">
   <?php
   include 'conn.php';
     if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {

@@ -8,7 +8,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <style>
   .navbar {
-    background-color: #333333  ;
+    background-color: grey  ;
     padding: 10px 10px;
     color:#FF0404  ;
   }
@@ -36,9 +36,8 @@
   }
    #qq:hover{
     background-color:#E5E8E8 ;
-    border-radius: 5px;
   }
-}
+
   </style>
 </head>
 <body>
@@ -50,7 +49,7 @@
     </div>
     <ul class="nav navbar-nav navbar-right">
 
-      <li class="dropdown"><a class="dropdown-toggle" id="qw" data-toggle="dropdown" href="#" style="font-weight:bold;color:white "> <span class="glyphicon glyphicon-user"></span>&nbsp&nbsp
+      <li class="dropdown"><a class="dropdown-toggle" id="qw" data-toggle="dropdown" href="#" style="font-weight:bold;color:white "> <span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;
         <?php
         include 'conn.php';
         $username=$_SESSION['username'];
@@ -59,9 +58,9 @@
         $row=mysqli_fetch_assoc($result);
         echo "Hello ".$row['admin_name'];
        ?><span class="caret"></span></a>
-        <ul class="dropdown-menu" style="background-color:#D6EAF8;">
-          <li><a href="change_password.php" style="color:#DC7633  ">Change Password </a></li>
-          <li><a href="logout.php" style="color:#D35400 ;">Logout</a></li>
+        <ul class="dropdown-menu" style="background-color:black;">
+          <li><a href="change_password.php" style="color:white  ">Change Password </a></li>
+          <li><a href="logout.php" style="color:white ;">Logout</a></li>
         </ul>
     </li>
     </ul>

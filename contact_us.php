@@ -45,7 +45,7 @@
     }?>
 
 
-    <!-- NAVBAR -->
+   
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
             <a class="navbar-brand" href="index.html"> Blood Bank <i class="icon-heart" aria-hidden="true"></i></a>
@@ -68,7 +68,7 @@
             </div>
         </div>
     </nav>
-    <!-- END nav -->
+  
 
     <div class="hero-wrap js-fullheight">
         <div class="overlay"></div>
@@ -141,7 +141,6 @@
         </div>
     </section>
 
-    <!--  FOOTER ---------------------------------------------------------------->
    <footer class="ftco-footer ftco-bg-dark ftco-section">
         <div class="container">
             <div class="row mb-5">
@@ -167,19 +166,19 @@
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">Contact Information</h2>
                         <ul class="list-unstyled">
-                            <li><a href="#" class="py-2 d-block">9 ack Street, Cairo, Egypt.</a></li>
-                            <li><a href="#" class="py-2 d-block">+ 1234 5678 90</a></li>
-                            <li><a href="#" class="py-2 d-block">email@yoursite.com</a></li>
-                            <li><a href="#" class="py-2 d-block">email@email.com</a></li>
+                            <li><a href="#" class="py-2 d-block">VIT, Vellore, India.</a></li>
+                            <li><a href="#" class="py-2 d-block">+ 9999 9999 99</a></li>
+                            <li><a href="#" class="py-2 d-block">donate@nonprofit.com</a></li>
+                            <li><a href="#" class="py-2 d-block">bloodbank.com</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
-                            <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                            <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                            <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                        <li class="ftco-animate"><a href="https://twitter.com/bloodaid"><span class="icon-twitter"></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.facebook.com/help/contact/579287765983263"><span class="icon-facebook"></span></a></li>
+                            <li class="ftco-animate"><a href="https://www.instagram.com/indiablooddonation/?hl=en"><span class="icon-instagram"></span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -192,12 +191,7 @@
             </div>
         </div>
     </footer>
-    <!-- END FOOTER ---------------------------------------------------------------->
-
-
-
-
-    <!-- loader -->
+    
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
 
