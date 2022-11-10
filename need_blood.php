@@ -37,7 +37,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
-            <a class="navbar-brand" href="index.html"> Blood Bank <i class="icon-heart" aria-hidden="true"></i></a>
+            <a class="navbar-brand" href="index.html"> BloodVault<i class="icon-heart" aria-hidden="true"></i></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
@@ -185,7 +185,7 @@
             <div class="row mb-5">
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Blood Bank <i class="icon-heart" aria-hidden="true"></i></h2>
+                        <h2 class="ftco-heading-2">BloodVault <i class="icon-heart" aria-hidden="true"></i></h2>
                         <p>By putting people in need of blood in direct contact with blood donors, we are able to solve the problem of unexpected blood shortages.</p>
                     </div>
                 </div>
