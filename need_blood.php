@@ -47,7 +47,7 @@
                     <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
                     
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a href="contact_us.php" class="nav-link">Contact</a></li>
                   
                     <li class="nav-item"><a href="donate_blood.php" class="nav-link"><span>Donate Blood</span></a></li>
                     <li class="nav-item"><a href="need_blood.php" class="nav-link"><span>Need Blood</span></a></li>
@@ -196,7 +196,7 @@
                             <li><a href="index.html" class="py-2 d-block">Home</a></li>
                             <li><a href="about.html" class="py-2 d-block">About</a></li>
                            
-                            <li><a href="contact.html" class="py-2 d-block">Contact</a></li>
+                            <li><a href="contact_us.php" class="py-2 d-block">Contact</a></li>
                             
                         </ul>
                     </div>

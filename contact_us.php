@@ -57,17 +57,18 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-                    
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-                  
+
+                    <li class="nav-item"><a href="contact_us.php" class="nav-link">Contact</a></li>
+
                     <li class="nav-item"><a href="donate_blood.php" class="nav-link"><span>Donate Blood</span></a></li>
                     <li class="nav-item"><a href="need_blood.php" class="nav-link"><span>Need Blood</span></a></li>
                     <li class="nav-item"><a href="login.php" class="nav-link"><span>Login</span></a></li>
-                 
+
                 </ul>
             </div>
         </div>
     </nav>
+
 
     <div class="hero-wrap js-fullheight">
         <div class="overlay"></div>
@@ -91,7 +92,7 @@
                 </div>
                 <div class="w-100"></div>
                 <div class="col-md-3">
-                    <p><span>Address:</span> VIT, Vellore, India.</p>
+                <p><span>Address:</span> VIT, Vellore, India.</p>
                 </div>
                 <div class="col-md-3">
                     <p><span>Phone:</span> <a href="tel://1234567920">+ 9999 9999 99</a></p>
@@ -136,10 +137,9 @@
 
                 </div>
 
-               
+
         </div>
     </section>
-
 
    <footer class="ftco-footer ftco-bg-dark ftco-section">
         <div class="container">
@@ -156,9 +156,9 @@
                         <ul class="list-unstyled">
                             <li><a href="index.html" class="py-2 d-block">Home</a></li>
                             <li><a href="about.html" class="py-2 d-block">About</a></li>
-                           
-                            <li><a href="contact.html" class="py-2 d-block">Contact</a></li>
-                            
+
+                            <li><a href="contact_us.php" class="py-2 d-block">Contact</a></li>
+
                         </ul>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
                         <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
-                            <li class="ftco-animate"><a href="https://twitter.com/bloodaid"><span class="icon-twitter"></span></a></li>
+                        <li class="ftco-animate"><a href="https://twitter.com/bloodaid"><span class="icon-twitter"></span></a></li>
                             <li class="ftco-animate"><a href="https://www.facebook.com/help/contact/579287765983263"><span class="icon-facebook"></span></a></li>
                             <li class="ftco-animate"><a href="https://www.instagram.com/indiablooddonation/?hl=en"><span class="icon-instagram"></span></a></li>
                         </ul>
@@ -191,10 +191,6 @@
             </div>
         </div>
     </footer>
-   
-
-
-
 
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
@@ -222,3 +218,4 @@
 </body>
 
 </html>
+	
