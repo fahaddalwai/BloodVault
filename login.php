@@ -38,8 +38,8 @@ background-repeat: no-repeat;">
     </div>
   </div>
   <div class="row justify-content-lg-center justify-content-mb-center">
-    <div class="col-lg-4 mb-4 " style="text-align:center"><br>
-    <div><input type="submit" name="login" value="LOGIN" style="cursor:pointer; background-color:white; color:red; border: 0px;"></div>
+    <div class="col-lg-4 mb-4 " style="text-align:center"><br><br>g
+    <div style="padding:0px;margin:0px;"><input type="submit" name="login" value="LOGIN" style="cursor:pointer; background-color:white; color:black; border: 0px;padding:10px;font-size:small;border-radius:15px"></div>
     </div>
   </div>
     </div>

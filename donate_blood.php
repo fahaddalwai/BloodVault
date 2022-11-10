@@ -34,7 +34,7 @@
 </head>
 
 <body>
-<!-- NAVBAR -->
+
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
         <div class="container">
             <a class="navbar-brand" href="index.html"> Blood Bank <i class="icon-heart" aria-hidden="true"></i></a>
@@ -57,7 +57,7 @@
             </div>
         </div>
     </nav>
-    <!-- END nav -->
+ 
 
     <div class="hero-wrap js-fullheight">
         <div class="overlay"></div>
@@ -74,8 +74,6 @@
  
  
 
-
-    <!-- loader -->
     <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
 
@@ -168,14 +166,14 @@
 
 </div>
 
-  <!--  FOOTER ---------------------------------------------------------------->
+
   <footer class="ftco-footer ftco-bg-dark ftco-section">
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">Blood Bank <i class="icon-heart" aria-hidden="true"></i></h2>
-                        <p>We solve the problem of blood emergencies by connecting blood donors directly with people in blood need.</p>
+                        <p>By putting people in need of blood in direct contact with blood donors, we are able to solve the problem of unexpected blood shortages.</p>
                     </div>
                 </div>
                 <div class="col-md">
