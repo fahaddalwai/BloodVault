@@ -23,12 +23,12 @@ Here're some of the project's best features:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/blood-vault.git
+   git clone https://github.com/your-username/BloodVault.git
    ```
 
 2. Navigate to the `frontend` directory and install frontend dependencies:
    ```
-   cd blood-vault/frontend
+   cd BloodVault/frontend
    npm install  # or yarn install
    ```
 
